@@ -139,7 +139,7 @@ Electric vehicles are becoming mainstream, driven by technological advancement a
 
 ##  Project Files
 - Dataset <a href=" https://github.com/jpkeerthik30-sudo/EV-Vehicles-Data-Analysis-Using-Tableau/blob/main/EV_data.csv" ></a>
-- Tableau Dashboard <a href=" " ></a>
+- Tableau Dashboard <a href="https://github.com/jpkeerthik30-sudo/EV-Vehicles-Data-Analysis-Using-Tableau/blob/main/EV%20vehicles%20data%20analysis.png " ></a>
 - Project Report (this README)
 
 ---
